@@ -47,21 +47,17 @@ a
 }
 
 .footer {
-
   border: solid;
   position: fixed;
   left: 50%;
   bottom: 0;
   text-align: center;
   margin: auto;
-
 }
 
 img
 {height:500px;
 }
-
-
 
 ul
 {
@@ -71,7 +67,6 @@ ul
   font-size: 35px;
   text-align: center;
   padding: 20px;
-
 }
 
 li
