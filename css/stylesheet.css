@@ -1,16 +1,65 @@
 h1 {
-  font-size: 30;
+  font-size: 50px;
+  font-family: cursive;
   text-align: center;
+  color: white;
 }
 
 body
 {
-  background-color: aqua;
+  background-size: cover;
+  background-image: url("http://free4kwallpaper.com/wp-content/uploads/2016/01/Scenic-Beach-4K-Wallpaper.jpg");
+  height: 100vh;
 }
 
 nav
 {
+  list-style-type: none;
+  background: rgba(0, 255, 0, 0.3);
+  font-family: fantasy;
+  font-size: 40px;
   text-align: center;
-  
+  padding: 20px;
 
+}
+
+a
+{
+  display: inline;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.footer {
+
+  border: solid;
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  text-align: center;
+  margin: auto;
+
+}
+
+img
+{height:500px;
+}
+
+
+
+ul
+{
+  list-style-type: none;
+  background: rgba(0, 0, 0, 0.5);
+  font-family: fantasy;
+  font-size: 40px;
+  text-align: center;
+  padding: 20px;
+
+}
+
+li
+{
+  color: white;
+  margin: 20px;
 }
